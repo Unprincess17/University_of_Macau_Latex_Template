@@ -1,11 +1,11 @@
 <h1 align="center">
-  <a href="https://github.com/ycsek/CityU-Macau-Latex-Template">
-    <img alt="CityU_Macau_Latex_Template" src="https://github.com/ycsek/CityU-Macau-Latex-Template/blob/main/figures/Cityu_logo_color.png"  />
+  <a href="https://github.com/Unprincess17/University_of_Macau_Latex_Template">
+    <img alt="University_of_Macau_Latex_Template" src="https://github.com/Unprincess17/University_of_Macau_Latex_Template/blob/main/figures/UMLogoVerticle.png"  />
   </a> 
 
 
 
-# 用于澳门城市大学的 $\LaTeX$ 模板
+# 用于澳门大学的 $\LaTeX$ 模板
 
 
 
@@ -18,7 +18,4 @@
 * `reference.bib`中是参考文献列表
 * `figures` 此文件夹存放所需的图片
 
-## Pre 说明
-
-* Beamer 模板用于制作 slides
 
